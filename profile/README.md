@@ -1,10 +1,12 @@
 <img src="https://github.com/CS23-PS276/sahabat-lansia/assets/96944447/9f3a1cee-aa1a-4f23-a611-6dd5f4d89643" alt="logo_bg_gradient" width="100px" />
 
-# Sahabat Lansia
-Description Repository for CS23-PS276 Bangkit Capstone Project "Sahabat Lansia"
-
 # About
-Sahabat Lansia is an Android that provides suitable caregivers and articles on aged care based on machine learning recommendation algorithm.
+Sahabat Lansia is an Android app that provides suitable caregivers and articles on aged care based on machine learning recommendation algorithm.
+
+# Features
+- Caregiver finding with recommendation system
+- Article with recommendation system
+- Scheduling
 
 # The Team
 | Member | Student ID | Path | Role | Contacts |
